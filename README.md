@@ -1,1 +1,1 @@
-# CBIT_EEE_CampusPlacement_Prediction
+# CBIT CampusPlacement_Prediction
